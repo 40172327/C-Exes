@@ -1,0 +1,5 @@
+/Users/lorenzodalberto/Projects/TestNam/TestNam/bin/Debug/TestNam.exe
+/Users/lorenzodalberto/Projects/TestNam/TestNam/bin/Debug/TestNam.pdb
+/Users/lorenzodalberto/Projects/TestNam/TestNam/obj/x86/Debug/TestNam.csproj.CoreCompileInputs.cache
+/Users/lorenzodalberto/Projects/TestNam/TestNam/obj/x86/Debug/TestNam.exe
+/Users/lorenzodalberto/Projects/TestNam/TestNam/obj/x86/Debug/TestNam.pdb

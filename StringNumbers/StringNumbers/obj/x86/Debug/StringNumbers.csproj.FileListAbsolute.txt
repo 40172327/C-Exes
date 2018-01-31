@@ -1,0 +1,5 @@
+/Users/lorenzodalberto/Projects/StringNumbers/StringNumbers/bin/Debug/StringNumbers.exe
+/Users/lorenzodalberto/Projects/StringNumbers/StringNumbers/bin/Debug/StringNumbers.pdb
+/Users/lorenzodalberto/Projects/StringNumbers/StringNumbers/obj/x86/Debug/StringNumbers.csproj.CoreCompileInputs.cache
+/Users/lorenzodalberto/Projects/StringNumbers/StringNumbers/obj/x86/Debug/StringNumbers.exe
+/Users/lorenzodalberto/Projects/StringNumbers/StringNumbers/obj/x86/Debug/StringNumbers.pdb

@@ -1,0 +1,5 @@
+/Users/lorenzodalberto/Projects/HouseArea/HouseArea/obj/x86/Debug/HouseArea.csproj.CoreCompileInputs.cache
+/Users/lorenzodalberto/Projects/HouseArea/HouseArea/bin/Debug/HouseArea.exe
+/Users/lorenzodalberto/Projects/HouseArea/HouseArea/bin/Debug/HouseArea.pdb
+/Users/lorenzodalberto/Projects/HouseArea/HouseArea/obj/x86/Debug/HouseArea.exe
+/Users/lorenzodalberto/Projects/HouseArea/HouseArea/obj/x86/Debug/HouseArea.pdb
