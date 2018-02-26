@@ -1,0 +1,5 @@
+/Users/lorenzodalberto/Projects/SD2week1/hello/bin/hello.dll
+/Users/lorenzodalberto/Projects/SD2week1/hello/bin/hello.pdb
+/Users/lorenzodalberto/Projects/SD2week1/hello/obj/Debug/hello.csproj.CoreCompileInputs.cache
+/Users/lorenzodalberto/Projects/SD2week1/hello/obj/Debug/hello.dll
+/Users/lorenzodalberto/Projects/SD2week1/hello/obj/Debug/hello.pdb
