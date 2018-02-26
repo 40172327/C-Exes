@@ -1,0 +1,30 @@
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\bin\Debug\Example2.exe.config
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\obj\Debug\MainWindow.baml
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\obj\Debug\MainWindow.g.cs
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\obj\Debug\App.g.cs
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\obj\Debug\Example2_MarkupCompile.cache
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\obj\Debug\Example2.g.resources
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\obj\Debug\Example2.Properties.Resources.resources
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\obj\Debug\Example2.csproj.GenerateResource.Cache
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\bin\Debug\Example2.exe
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\bin\Debug\Example2.pdb
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\obj\Debug\SecondWindow.baml
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\obj\Debug\SecondWindow.g.cs
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\obj\Debug\Example2.exe
+\\napier-mail.napier.ac.uk\staff\school of computing\user data\cs88\visual studio 2012\Projects\SD2Week1\Example2\obj\Debug\Example2.pdb
+C:\Users\larry\source\repos\Example2\bin\Debug\Example2.exe.config
+C:\Users\larry\source\repos\Example2\bin\Debug\Example2.exe
+C:\Users\larry\source\repos\Example2\bin\Debug\Example2.pdb
+C:\Users\larry\source\repos\Example2\obj\Debug\Example2.csprojResolveAssemblyReference.cache
+C:\Users\larry\source\repos\Example2\obj\Debug\MainWindow.baml
+C:\Users\larry\source\repos\Example2\obj\Debug\SecondWindow.baml
+C:\Users\larry\source\repos\Example2\obj\Debug\MainWindow.g.cs
+C:\Users\larry\source\repos\Example2\obj\Debug\SecondWindow.g.cs
+C:\Users\larry\source\repos\Example2\obj\Debug\App.g.cs
+C:\Users\larry\source\repos\Example2\obj\Debug\Example2_MarkupCompile.cache
+C:\Users\larry\source\repos\Example2\obj\Debug\Example2.g.resources
+C:\Users\larry\source\repos\Example2\obj\Debug\Example2.Properties.Resources.resources
+C:\Users\larry\source\repos\Example2\obj\Debug\Example2.csproj.GenerateResource.Cache
+C:\Users\larry\source\repos\Example2\obj\Debug\Example2.csproj.CoreCompileInputs.cache
+C:\Users\larry\source\repos\Example2\obj\Debug\Example2.exe
+C:\Users\larry\source\repos\Example2\obj\Debug\Example2.pdb

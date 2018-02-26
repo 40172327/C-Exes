@@ -1,0 +1,15 @@
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\BankBalance.csprojResolveAssemblyReference.cache
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\MainWindow.g.cs
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\App.g.cs
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\BankBalance_MarkupCompile.cache
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\BankBalance_MarkupCompile.lref
+c:\users\larry\source\repos\BankBalance\BankBalance\bin\Debug\BankBalance.exe.config
+c:\users\larry\source\repos\BankBalance\BankBalance\bin\Debug\BankBalance.exe
+c:\users\larry\source\repos\BankBalance\BankBalance\bin\Debug\BankBalance.pdb
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\MainWindow.baml
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\BankBalance.g.resources
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\BankBalance.Properties.Resources.resources
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\BankBalance.csproj.GenerateResource.Cache
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\BankBalance.csproj.CoreCompileInputs.cache
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\BankBalance.exe
+c:\users\larry\source\repos\BankBalance\BankBalance\obj\Debug\BankBalance.pdb

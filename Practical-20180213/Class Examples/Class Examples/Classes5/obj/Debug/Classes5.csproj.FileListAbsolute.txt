@@ -1,0 +1,5 @@
+D:\SD2\1 - Intro to Objects\2_5 classes\Classes5\bin\Debug\Classes5.exe
+D:\SD2\1 - Intro to Objects\2_5 classes\Classes5\bin\Debug\Classes5.pdb
+D:\SD2\1 - Intro to Objects\2_5 classes\Classes5\obj\Debug\ResolveAssemblyReference.cache
+D:\SD2\1 - Intro to Objects\2_5 classes\Classes5\obj\Debug\Classes5.exe
+D:\SD2\1 - Intro to Objects\2_5 classes\Classes5\obj\Debug\Classes5.pdb
